@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сортировка подсчетом", "Сортировка подсчетом\Сортировка подсчетом.csproj", "{21989BAD-4102-4589-BBB5-1F81F0075419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Порозрядне сортування1", "Порозрядне сортування1\Порозрядне сортування1.csproj", "{4161F0D6-D93A-40CA-B9F6-D349396C918A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21989BAD-4102-4589-BBB5-1F81F0075419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21989BAD-4102-4589-BBB5-1F81F0075419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21989BAD-4102-4589-BBB5-1F81F0075419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21989BAD-4102-4589-BBB5-1F81F0075419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4161F0D6-D93A-40CA-B9F6-D349396C918A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4161F0D6-D93A-40CA-B9F6-D349396C918A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4161F0D6-D93A-40CA-B9F6-D349396C918A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4161F0D6-D93A-40CA-B9F6-D349396C918A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CF138EA-D5AD-4F86-8CC1-130C672EB675}
+	EndGlobalSection
+EndGlobal
